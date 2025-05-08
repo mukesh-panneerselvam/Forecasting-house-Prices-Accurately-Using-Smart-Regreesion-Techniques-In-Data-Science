@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+xgboost
+streamlit 
+plotly
+scikit-learn==0.24.2
+
+
